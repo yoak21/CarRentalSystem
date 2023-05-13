@@ -198,7 +198,7 @@ int login(){
       cout << '*';
       ch = _getch();
    }
-   if(pass == "pass"){
+   if(pass == "Car"){
       cout << "\n\n\n\t\t\t\t\t\tAccess Granted! \n";
       system("PAUSE");
       system ("CLS");
