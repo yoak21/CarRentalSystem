@@ -1,7 +1,10 @@
-    _________    ____       ____  _______   ___________    __       _______  _____________________  ___
-  / ____/   |  / __ \     / __ \/ ____/ | / /_  __/   |  / /      / ___/\ \/ / ___/_  __/ ____/  |/  /
- / /   / /| | / /_/ /    / /_/ / __/ /  |/ / / / / /| | / /       \__ \  \  /\__ \ / / / __/ / /|_/ / 
-/ /___/ ___ |/ _, _/    / _, _/ /___/ /|  / / / / ___ |/ /___    ___/ /  / /___/ // / / /___/ /  / /  
-\____/_/  |_/_/ |_|    /_/ |_/_____/_/ |_/ /_/ /_/  |_/_____/   /____/  /_//____//_/ /_____/_/  /_/   
-                                                                             
-###                                                           -Brought To You By Anurag Ranjan 
+# Car Rental System
+### CAR RENTAL SYSTEM IN C++ PROGRAMMING LANGUAGE
+
+-LOGIN DETAILS-
+
+PASSWORD: pass
+
+**IMPORTANT**
+DO NOT DELETE ANY TEXT FILES OF THE PROJECT FOLDER.
+ALL THE TEXT FILES ARE LINKED WITH THE SYSTEM!!
